@@ -1,0 +1,14 @@
+layout_spectrum: 0.8064516
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.9498208
+  brandColors:
+    - '#FFFFFF'
+    - '#231D1D'
+    - '#DFDCCD'
+    - '#5A5B55'
+    - '#ABA291'
+  rhythmicContrast: 0.8207885
+typography_spectrum: 0.4784946
+name: Louwrine
